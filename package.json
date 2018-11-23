@@ -1,0 +1,15 @@
+{
+  "name": "node_api_todos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zainbintariq",
+  "license": "ISC",
+  "dependencies": {
+    "latest": "^0.2.0",
+    "mongodb": "^3.1.10"
+  }
+}
